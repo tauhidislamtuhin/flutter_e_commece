@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "741193296693",
+    "project_id": "e-commece-flutter",
+    "storage_bucket": "e-commece-flutter.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741193296693:android:09abfd4ac25a2a22937a7c",
+        "android_client_info": {
+          "package_name": "com.example.e_commece"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqbDjrupiWBro00NeodxDFA6jTuvomejc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
